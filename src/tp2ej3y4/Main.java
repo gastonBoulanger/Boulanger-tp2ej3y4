@@ -61,7 +61,7 @@ public class Main {
 			System.out.print(arr2[i] + " - ");
 		}
 		/*En arreglo de tamaño chico se puede observar que el tiempo del metodo burbujeo
-		 *es menor que el tiempo empleado por el metodo mergesort
+		 *es similar al tiempo empleado por el metodo mergesort
 		 *Por el contrario cuanto mas grande es el arreglo mas rapido es el mergesort.
 		 */
 	}
